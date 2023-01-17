@@ -66,13 +66,11 @@ Erstellen Sie folgende UML-Datenbankdiagramme:
 
 ## n. Präsentationen
 
-# Datenbankmodelle
-
-## Prompt:
+### Datenbankmodelle:
 
 Recherchieren Sie das Ihnen zugewiesene Datenbankmodell. Erläutern Sie Vor- und Nachteile, und stellen Sie mindestens ein Beispiel für die Anwendung des Modells dar. Achten Sie insbesondere auf ein visuelles Darstellen der Struktur.
 
-## Infos:
+#### Infos:
 
 * Bearbeitungszeit: ~ 60 Minuten
 * 10 Minuten Präsentation
