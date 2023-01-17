@@ -16,8 +16,6 @@
 
 ## 2. Entity Relationship Modell
 
-### Einfach:
-
 Erstellen Sie je ein ERM für folgende Konzepte:
 
 * Bibliothek (Bücher, Benutzer, Ausleihen, ...)
@@ -27,28 +25,6 @@ Erstellen Sie je ein ERM für folgende Konzepte:
 * Autovermietungsunternehmen (Autos, Kunden, Fahrten, ...)
 
 * Bankensystem 
-
-### Mittel:
-
-* Online-Shop 
-    Berücksichtigen Sie die Möglichkeit von Benutzern, Warenkörbe zu erstellen, Bestellungen zu tätigen und Rechnungen zu bezahlen.
-
-* Online-Event-Planer
-    Berücksichtigen Sie die Möglichkeit von Benutzern, Veranstaltungen zu erstellen, zu kommentieren und zu bewerten.
-
-### Schwierig:
-
-* Soziales Netzwerk 
-    Berücksichtigen Sie die Möglichkeit von Benutzern, Freundschaftsanfragen zu senden und anzunehmen, Gruppen beizutreten und Beiträge zu teilen.
-
-* Online-Spiel 
-    Berücksichtigen Sie die Möglichkeit von Benutzern, Freunde hinzuzufügen, in Gruppen zu spielen und Highscores zu teilen.
-
-* Unternehmensressourcen-Planungssystem (ERP)
-    Berücksichtigen Sie die Möglichkeit von Ressourcenplanung, Lagerverwaltung, Finanzmanagement und Personalverwaltung.
-
-* Gesundheitsinformationssystem.
-    Berücksichtigen Sie die Möglichkeit von Patientenaufzeichnungen, Arzt-Patienten-Kommunikation und Rezeptverwaltung.
 
 ## 3. Normalisierung
 
