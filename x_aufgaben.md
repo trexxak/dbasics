@@ -54,16 +54,6 @@ Erstellen Sie je ein ERM für folgende Konzepte:
 
 (siehe Reiter _Aufgaben_ in __2_normalisation.xlsx__)
 
-
-## 4. UML-Datenbankdiagramm
-
-Erstellen Sie folgende UML-Datenbankdiagramme:
-
-1. Buchverwaltungssystem 
-2. Lagerverwaltungssystem 
-3. Personalverwaltungssystem
-
-
 ## n. Präsentationen
 
 ### Datenbankmodelle:
