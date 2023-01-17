@@ -27,19 +27,3 @@ In der Praxis hat sich das Normalisieren bis auf die 3. Normalform als Performan
 * Jedes Attribut ist ausschließlich vom jeweiligen Primärschlüssel abhängig.
 
 > in Einfach: Überprüfung der Abhängigkeit von Nicht-Primärschlüssel vornehmen und weitere Untertabellen erstellen.
-
-## Boyce-Codd-Normalform (BCNF)
-Benannt nach den Erfindern der relationalen Datenbanken.
-
-* gleichzeitig in 3. Normalform
-* Jeder Fremdschlüssel bezieht sich alleine auf den Primärschlüssel.
-
-## 4. Normalform
-
-* in BC Normalform
-* Jede Tabelle beinhaltet nur thematisch passende Felder.
-
-## 5. Normalform
-
-* In 4. Normalform
-* Jede Trivialität wird aufgelöst.
